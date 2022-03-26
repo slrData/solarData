@@ -1,1 +1,9 @@
+--pls pls plssssss dont leak dont do it plssssssssssssssssssss :( :(
 
+getgenv().keys = {
+"WWAHJR-W13J-LAJK",
+"PALW-1723-JJSA",
+"JAGA-1812-JALK",
+}
+--wl
+loadstring(game:HttpGetAsync("https://pastebin.com/raw/1nA8JP6K"))()
