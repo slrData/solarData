@@ -1,0 +1,8 @@
+local WHITELIST = table.find(getgenv().keys, getgenv().freekey)
+
+
+if WHITELIST then
+    print("no")
+    else
+        print("t")
+end
