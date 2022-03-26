@@ -6,8 +6,5 @@ getgenv().users = {
 2585704294,
 1686071330,
 }
-
 --wl
---soon
-
-return users
+loadstring(game:HttpGet('https://raw.githubusercontent.com/slrData/Test/main/t'))()
